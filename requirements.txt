@@ -1,0 +1,13 @@
+Sphinx==1.5.3
+# pip install sphinx sphinx_rtd_theme
+# pip ma problem z instalacja pod windows, trzeba znalezc obejscie
+# pygame
+turtle
+Flask
+Flask-wtf
+Flask-SQLAlchemy
+SQLAlchemy
+django
+# Instalacja matplotlib z requirements nie dziala
+# matplotlib
+peewee
